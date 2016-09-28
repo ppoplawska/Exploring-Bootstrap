@@ -1,0 +1,2 @@
+Purpose of Log is to record recent thoughts, and questions.
+[9/28/2016][11:24AM][UNRESOLVED]: Why is the default navbar using position fixed?
